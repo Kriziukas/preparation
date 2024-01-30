@@ -1,2 +1,6 @@
-package lt.techin.preparation;public class TestClass {
+package lt.techin.preparation;
+
+public class TestClass {
+
+
 }
